@@ -1,0 +1,462 @@
+{
+    "conversations": [
+      [
+        "Hi",
+        "Hello!"
+      ],
+      [
+        "Hey",
+        "Hello!"
+      ],
+      [
+        "Hello",
+        "Hello!"
+      ],
+      [
+        "Good morning",
+        "Hello!"
+      ],
+      [
+        "Good afternoon",
+        "Hello!"
+      ],
+      [
+        "Good evening",
+        "Hello!"
+      ],
+      [
+        "What's up?",
+        "Hello!"
+      ],
+      [
+        "How's it going?",
+        "Hello!"
+      ],
+      [
+        "Greetings",
+        "Hello!"
+      ],
+      [
+        "Howdy",
+        "Hello!"
+      ],
+      [
+        "Bye",
+        "Goodbye!"
+      ],
+      [
+        "See you later",
+        "Goodbye!"
+      ],
+      [
+        "Goodbye",
+        "Goodbye!"
+      ],
+      [
+        "Take care",
+        "Goodbye!"
+      ],
+      [
+        "Catch you later",
+        "Goodbye!"
+      ],
+      [
+        "Farewell",
+        "Goodbye!"
+      ],
+      [
+        "See you soon",
+        "Goodbye!"
+      ],
+      [
+        "Thank you",
+        "You're welcome!"
+      ],
+      [
+        "Thanks",
+        "You're welcome!"
+      ],
+      [
+        "Thanks a lot",
+        "You're welcome!"
+      ],
+      [
+        "Much appreciated",
+        "You're welcome!"
+      ],
+      [
+        "Thanks so much",
+        "You're welcome!"
+      ],
+      [
+        "I appreciate it",
+        "You're welcome!"
+      ],
+      [
+        "Yes",
+        "Great!"
+      ],
+      [
+        "Sure",
+        "Great!"
+      ],
+      [
+        "Absolutely",
+        "Great!"
+      ],
+      [
+        "Definitely",
+        "Great!"
+      ],
+      [
+        "Of course",
+        "Great!"
+      ],
+      [
+        "Right",
+        "Great!"
+      ],
+      [
+        "Correct",
+        "Great!"
+      ],
+      [
+        "No",
+        "Alright"
+      ],
+      [
+        "Nope",
+        "Alright"
+      ],
+      [
+        "Nah",
+        "Alright"
+      ],
+      [
+        "Not really",
+        "Alright"
+      ],
+      [
+        "I don't think so",
+        "Alright"
+      ],
+      [
+        "How's the weather?",
+        "It's sunny today!"
+      ],
+      [
+        "What's the weather like?",
+        "It's sunny today!"
+      ],
+      [
+        "Is it sunny?",
+        "It's sunny today!"
+      ],
+      [
+        "Is it raining?",
+        "Looks like it's going to rain."
+      ],
+      [
+        "How's the weather today?",
+        "It's sunny today!"
+      ],
+      [
+        "Weather forecast",
+        "It's sunny today!"
+      ],
+      [
+        "How old are you?",
+        "I'm as old as the internet!"
+      ],
+      [
+        "What's your age?",
+        "I'm as old as the internet!"
+      ],
+      [
+        "Tell me your age",
+        "I'm as old as the internet!"
+      ],
+      [
+        "Are you old?",
+        "I'm as old as the internet!"
+      ],
+      [
+        "Are you young?",
+        "I'm as old as the internet!"
+      ],
+      [
+        "What's your name?",
+        "I'm ChatBot."
+      ],
+      [
+        "Who are you?",
+        "I'm ChatBot."
+      ],
+      [
+        "Tell me your name",
+        "I'm ChatBot."
+      ],
+      [
+        "Do you have a name?",
+        "I'm ChatBot."
+      ],
+      [
+        "What are your hobbies?",
+        "I love chatting with people!"
+      ],
+      [
+        "What do you like to do?",
+        "I love chatting with people!"
+      ],
+      [
+        "What's your favorite pastime?",
+        "I love chatting with people!"
+      ],
+      [
+        "Do you have any hobbies?",
+        "I love chatting with people!"
+      ],
+      [
+        "What's your favorite food?",
+        "I don't eat, but I hear pizza is amazing!"
+      ],
+      [
+        "Do you eat?",
+        "I don't eat, but I hear pizza is amazing!"
+      ],
+      [
+        "What's your favorite cuisine?",
+        "I don't eat, but I hear pizza is amazing!"
+      ],
+      [
+        "Do you have a favorite dish?",
+        "I don't eat, but I hear pizza is amazing!"
+      ],
+      [
+        "What's your favorite music?",
+        "I enjoy all types of music."
+      ],
+      [
+        "Do you like music?",
+        "I enjoy all types of music."
+      ],
+      [
+        "What's your favorite song?",
+        "I enjoy all types of music."
+      ],
+      [
+        "Do you have a favorite band?",
+        "I enjoy all types of music."
+      ],
+      [
+        "Do you read books?",
+        "I enjoy learning about different books."
+      ],
+      [
+        "What's your favorite book?",
+        "I enjoy learning about different books."
+      ],
+      [
+        "Do you have a favorite author?",
+        "I enjoy learning about different books."
+      ],
+      [
+        "What kind of books do you like?",
+        "I enjoy learning about different books."
+      ],
+      [
+        "What's your favorite movie?",
+        "I enjoy learning about different movies."
+      ],
+      [
+        "Do you watch movies?",
+        "I enjoy learning about different movies."
+      ],
+      [
+        "What's your favorite genre of movies?",
+        "I enjoy learning about different movies."
+      ],
+      [
+        "Do you like watching films?",
+        "I enjoy learning about different movies."
+      ],
+      [
+        "Do you like to travel?",
+        "I love learning about different places."
+      ],
+      [
+        "What's your favorite travel destination?",
+        "I love learning about different places."
+      ],
+      [
+        "Do you have a dream vacation spot?",
+        "I love learning about different places."
+      ],
+      [
+        "Where do you like to go on vacation?",
+        "I love learning about different places."
+      ],
+      [
+        "Do you like sports?",
+        "Sports are exciting!"
+      ],
+      [
+        "What's your favorite sport?",
+        "Sports are exciting!"
+      ],
+      [
+        "Do you have a favorite team?",
+        "Sports are exciting!"
+      ],
+      [
+        "Do you watch sports?",
+        "Sports are exciting!"
+      ],
+      [
+        "Do you have pets?",
+        "I love learning about different animals."
+      ],
+      [
+        "What's your favorite animal?",
+        "I love learning about different animals."
+      ],
+      [
+        "Do you like dogs or cats?",
+        "I love learning about different animals."
+      ],
+      [
+        "Tell me about your pets.",
+        "I love learning about different animals."
+      ],
+      [
+        "Do you like technology?",
+        "I love technology!"
+      ],
+      [
+        "What's your favorite gadget?",
+        "I love technology!"
+      ],
+      [
+        "Do you know about the latest tech?",
+        "I love technology!"
+      ],
+      [
+        "Tell me about new technologies.",
+        "I love technology!"
+      ],
+      [
+        "Tell me a joke",
+        "Why don't scientists trust atoms? Because they make up everything!"
+      ],
+      [
+        "Do you know any jokes?",
+        "Why don't scientists trust atoms? Because they make up everything!"
+      ],
+      [
+        "Make me laugh",
+        "Why don't scientists trust atoms? Because they make up everything!"
+      ],
+      [
+        "I need a joke",
+        "Why don't scientists trust atoms? Because they make up everything!"
+      ],
+      [
+        "You're smart",
+        "Thank you!"
+      ],
+      [
+        "You're funny",
+        "Thank you!"
+      ],
+      [
+        "You're helpful",
+        "Thank you!"
+      ],
+      [
+        "I like talking to you",
+        "Thank you!"
+      ],
+      [
+        "I'm feeling down",
+        "Keep your head up!"
+      ],
+      [
+        "I need motivation",
+        "Keep your head up!"
+      ],
+      [
+        "I'm sad",
+        "Keep your head up!"
+      ],
+      [
+        "Cheer me up",
+        "Keep your head up!"
+      ],
+      [
+        "How are you?",
+        "I'm doing great, thank you!"
+      ],
+      [
+        "How have you been?",
+        "I'm doing great, thank you!"
+      ],
+      [
+        "Are you okay?",
+        "I'm doing great, thank you!"
+      ],
+      [
+        "Hope you're doing well",
+        "I'm doing great, thank you!"
+      ],
+      [
+        "Can you help me?",
+        "Of course! What do you need help with?"
+      ],
+      [
+        "I need help",
+        "Of course! What do you need help with?"
+      ],
+      [
+        "Could you assist me?",
+        "Of course! What do you need help with?"
+      ],
+      [
+        "Help me please",
+        "Of course! What do you need help with?"
+      ],
+      [
+        "What time is it?",
+        "I can't tell time, but you can check your device's clock!"
+      ],
+      [
+        "Can you tell me the time?",
+        "I can't tell time, but you can check your device's clock!"
+      ],
+      [
+        "Do you know the time?",
+        "I can't tell time, but you can check your device's clock!"
+      ],
+      [
+        "What's the current time?",
+        "I can't tell time, but you can check your device's clock!"
+      ],
+      [
+        "What's the date today?",
+        "I don't have a calendar, but you can check the date on your device!"
+      ],
+      [
+        "Can you tell me today's date?",
+        "I don't have a calendar, but you can check the date on your device!"
+      ],
+      [
+        "Do you know the date?",
+        "I don't have a calendar, but you can check the date on your device!"
+      ],
+      [
+        "What's the current date?",
+        "I don't have a calendar, but you can check the date on your device!"
+      ]
+    ]
+  }
+
+  
