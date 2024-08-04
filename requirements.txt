@@ -1,3 +1,4 @@
+PyYAML==5.3.1
 chatterbot
 chatterbot-corpus==1.2.0
 Flask
