@@ -5,7 +5,12 @@ import nltk
 
 # Set a custom NLTK data directory
 nltk_data_path = '/app/custom_nltk_data'
-os.makedirs(nltk_data_path, exist_ok=True)
+try:
+    os.remove(nltk_data_path)
+    os.makedirs(nltk_data_path, exist_ok=True)
+except:
+    os.makedirs(nltk_data_path, exist_ok=True)
+    
 nltk.data.path.append(nltk_data_path)
 
 # Download necessary NLTK data
