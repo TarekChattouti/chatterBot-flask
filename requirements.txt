@@ -1,5 +1,5 @@
 pytz
-ntlk
+nltk
 chatterbot
 chatterbot-corpus==1.2.0
 Flask
