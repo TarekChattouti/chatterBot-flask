@@ -2,11 +2,3 @@
 __pycache__/
 .venv/
 venv/
-
-# Django files
-static/
-templates/
-*.sqlite3
-
-# macOS files
-.DS_Store
