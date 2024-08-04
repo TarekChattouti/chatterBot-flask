@@ -1,5 +1,5 @@
 from chatterbot import ChatBot
-
+from flask import Flask, render_template, request, jsonify
 
 
 chatbot = ChatBot(
@@ -14,16 +14,21 @@ def get_response(user_input):
     return response
 
 
-if __name__ == "__main__":
-    print("Hello! I'm a chatbot. Type 'exit' to end the conversation.")
-    while True:
-        user_input = input("You: ")
-        if user_input.lower() == 'exit':
-            break
-        response = get_response(user_input)
-        if response.confidence >= 0.9:
-            print(f"Bot: {response}")
-        else:
-            print("I am not confident enough to respond to that.")
         
+        
+
+app = Flask(__name__)
+
+
+
+@app.route('/api/get_response')
+def index():
+    user_input = request.args.get('msg')
+    response = get_response(user_input)
+    print(response)
+    if response.confidence >= 0.9:
+        return str(response)
+    else:
+        return "I dont understand..."
+
         
